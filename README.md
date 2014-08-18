@@ -4,7 +4,7 @@ This module adds support for rendering views from multiple directories. To use t
 
 
     var express = require('express');
-    var multiViews = require('multi_views');
+    var multiViews = require('multi-views');
 
     var app = express();
 
