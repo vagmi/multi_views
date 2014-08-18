@@ -1,0 +1,23 @@
+{
+  "name": "multi-views",
+  "description": "Enables loading views from multiple directories",
+  "version": "0.1.0",
+  "dependencies": {
+    "express": "~> 4.x"
+  },
+  "devDependencies": {
+    "mocha": "~1.21.4",
+    "supertest": "~0.13.0",
+    "chai": "~1.9.1",
+    "jade": "~1.5.0"
+  },
+  "author": "Vagmi Mudumbai and Srivathsa PV",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vagmi/multi_views.git"
+  }
+  "scripts": {
+    "test": "node_modules/.bin/mocha test/**/*_test.js"
+  }
+}
