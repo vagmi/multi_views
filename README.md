@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/vagmi/multi_views.svg)](https://travis-ci.org/vagmi/multi_views)
+
 This module adds support for rendering views from multiple directories. To use the module, do the following.
 
 
